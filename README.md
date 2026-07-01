@@ -1,15 +1,35 @@
-# 💫 Hi 👋, I'm Bhoomika
-I am a 3rd-year student passionate about software development and exploring new technologies.
+# 💫 Bhoomika
+I am a 3rd-year Computer Science student passionate about software development and exploring new technologies. I enjoy transforming ideas into real-world solutions by building scalable, user-friendly applications while continuously learning and improving my technical skills.
+
+My primary focus is Full-Stack Web Development, where I build modern applications using JavaScript-based technologies and backend frameworks. Alongside web development, I am actively exploring Artificial Intelligence, Machine Learning, and Data Science to create intelligent and impactful software solutions. I also regularly practice Data Structures and Algorithms to strengthen my problem-solving skills and write efficient, optimized code.
 
 ## 🛠 Tech Stack:
 
-Languages:-  C, C++, Java, JavaScript, Python
+**Programming Languages** :- * C, C++, Java, JavaScript, Python
 
-Web Development:-  HTML5, CSS3, TailwindCSS, Express.js, Node.js, Vite, FastAPI
+**Web Development**:- HTML5, CSS3, Tailwind CSS, Express.js, Node.js, Vite, FastAPI
 
-Data Science & AI/ML:-  Pandas, Matplotlib, Scikit-learn, Scipy, TensorFlow, Keras
+**Data Science & AI/ML**:- Pandas, Matplotlib, Scikit-learn, SciPy, TensorFlow,  Keras
 
-Tools & Databases:-  MongoDB, Git, GitHub, Nodemon, Canva, Render
+**Tools & Databases**:- MongoDB, Git, GitHub, Nodemon, Render, Canva
+
+### 🌱 Currently Learning
+
+* Advanced Backend Development
+* System Design Fundamentals
+* Software Engineering Best Practices
+* AI Integration in Web Applications
+* Cloud Technologies and Deployment
+
+### 🚀 What Drives Me
+
+I believe technology has the power to solve meaningful problems and improve people's lives. Whether it's developing scalable web applications, building AI-powered solutions, or creating tools that enhance productivity, I enjoy the process of learning, building, and continuously improving.
+
+### 🎯 Career Goal
+
+My goal is to become a skilled Software Engineer who contributes to innovative products, works on challenging real-world problems, and develops solutions that create a positive impact. I am always eager to learn new technologies, collaborate with talented teams, and embrace opportunities that help me grow both technically and professionally.
+
+> **"Consistency in learning and building is the key to becoming a better developer every day."**
 
 
 ## 🌐 Socials:
