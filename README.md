@@ -168,6 +168,17 @@
 
 An AI-powered attendance management application designed to automate attendance workflows and manage students, teachers, subjects, and attendance records through an interactive application.
 
+
+### Links
+
+<a href="https://github.com/Bhoomika2110/Ai-Attendance-Project">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://ai-attendance-project-eta.vercel.app/">
+<img src="https://github.com/Bhoomika2110/Bhoomika2110/blob/main/AI%20Attendance.png"/>
+</a>
+
 ### Technology
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -189,16 +200,6 @@ An AI-powered attendance management application designed to automate attendance 
 ### Engineering Focus
 
 `AI Integration` `Computer Vision` `Database Design` `Authentication` `Application Architecture`
-### Links
-
-<a href="https://github.com/Bhoomika2110/Ai-Attendance-Project">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://ai-attendance-project-eta.vercel.app/">
-<img src="https://github.com/Bhoomika2110/Bhoomika2110/blob/main/AI%20Attendance.png"/>
-</a>
-
 
 </details>
 
@@ -210,6 +211,16 @@ An AI-powered attendance management application designed to automate attendance 
 <br>
 
 A full-stack AI-powered website builder that enables users to generate and modify websites using natural-language instructions and AI-assisted code generation.
+
+### Links
+
+<a href="https://github.com/Bhoomika2110/AI-website-builder">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://ai-website-builder-1-f3uy.onrender.com">
+<img src="https://github.com/Bhoomika2110/Bhoomika2110/blob/main/AI%20wedsite.png"/>
+</a>
 
 ### Technology
 
@@ -237,16 +248,6 @@ A full-stack AI-powered website builder that enables users to generate and modif
 
 `Generative AI` `MERN` `LLM Integration` `Code Generation` `Developer Tools`
 
-### Links
-
-<a href="https://github.com/Bhoomika2110/AI-website-builder">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://ai-website-builder-1-f3uy.onrender.com">
-<img src="https://github.com/Bhoomika2110/Bhoomika2110/blob/main/AI%20wedsite.png"/>
-</a>
-
 </details>
 
 ---
@@ -257,6 +258,18 @@ A full-stack AI-powered website builder that enables users to generate and modif
 <br>
 
 A full-stack learning management platform providing course management, role-based access, authentication, online payments, and AI-assisted learning capabilities.
+
+
+
+### Links
+
+<a href="https://github.com/Bhoomika2110/AuraLearn">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://oneauralearn-799e.onrender.com/">
+<img src="https://github.com/Bhoomika2110/Bhoomika2110/blob/main/AuraLearn.png"/>
+</a>
 
 ### Technology
 
@@ -284,16 +297,6 @@ A full-stack learning management platform providing course management, role-base
 
 `MERN` `RBAC` `Authentication` `Payments` `REST APIs` `Product Engineering`
 
-### Links
-
-<a href="https://github.com/Bhoomika2110/AuraLearn">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://oneauralearn-799e.onrender.com/">
-<img src="https://github.com/Bhoomika2110/Bhoomika2110/blob/main/AuraLearn.png"/>
-</a>
-
 </details>
 
 ---
@@ -304,6 +307,17 @@ A full-stack learning management platform providing course management, role-base
 <br>
 
 A real-time communication application focused on instant messaging, user authentication, and responsive chat interactions.
+
+
+### Links
+
+<a href="https://github.com/Bhoomika2110/Realtime-chatting-app-">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://realtime-chatting-app-1-rxq3.onrender.com">
+<img src="https://github.com/Bhoomika2110/Bhoomika2110/blob/main/Realtime%20chat.png"/>
+</a>
 
 ### Technology
 
@@ -328,25 +342,9 @@ A real-time communication application focused on instant messaging, user authent
 ### Engineering Focus
 
 `MERN` `WebSockets` `Socket.IO` `Real-Time Systems` `Authentication` `REST APIs`
-### Links
-
-<a href="https://github.com/Bhoomika2110/Realtime-chatting-app-">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://realtime-chatting-app-1-rxq3.onrender.com">
-<img src="https://github.com/Bhoomika2110/Bhoomika2110/blob/main/Realtime%20chat.png"/>
-</a>
 
 
 </details>
-
----
-
-
-
-
-
 
 ---
 
