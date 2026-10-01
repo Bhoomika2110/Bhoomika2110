@@ -1,55 +1,469 @@
-# 💫 Bhoomika
-I am a 3rd-year Computer Science student passionate about software development and exploring new technologies. I enjoy transforming ideas into real-world solutions by building scalable, user-friendly applications while continuously learning and improving my technical skills.
+<div align="center">
 
-My primary focus is Full-Stack Web Development, where I build modern applications using JavaScript-based technologies and backend frameworks. Alongside web development, I am actively exploring Artificial Intelligence, Machine Learning, and Data Science to create intelligent and impactful software solutions. I also regularly practice Data Structures and Algorithms to strengthen my problem-solving skills and write efficient, optimized code.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=BHOOMIKA%20GUPTA&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20%7C%20AI%2FML&descAlignY=62&descSize=16&animation=fadeIn"/>
 
-## 🛠 Tech Stack:
+### Software Engineer • Full Stack Developer • AI/ML Enthusiast
 
-**Programming Languages** :- * C, C++, Java, JavaScript, Python
+<a href="https://github.com/Bhoomika2110">
+<img src="https://img.shields.io/badge/GitHub-Bhoomika2110-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/bhoomika-gupta-6617572a2">
+<img src="https://img.shields.io/badge/LinkedIn-Bhoomika%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:bhoomikagupta71@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**Web Development**:- HTML5, CSS3, Tailwind CSS, Express.js, Node.js, Vite, FastAPI
+<br>
 
-**Data Science & AI/ML**:- Pandas, Matplotlib, Scikit-learn, SciPy, TensorFlow,  Keras
+<img src="https://komarev.com/ghpvc/?username=Bhoomika2110&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Bhoomika2110?label=FOLLOWERS&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/stars/Bhoomika2110?label=STARS&style=for-the-badge&color=4F46E5"/>
 
-**Tools & Databases**:- MongoDB, Git, GitHub, Nodemon, Render, Canva
+</div>
 
-### 🌱 Currently Learning
+---
 
-* Advanced Backend Development
-* System Design Fundamentals
-* Software Engineering Best Practices
-* AI Integration in Web Applications
-* Cloud Technologies and Deployment
+<div align="center">
 
-### 🚀 What Drives Me
+## 👩‍💻 About Me
 
-I believe technology has the power to solve meaningful problems and improve people's lives. Whether it's developing scalable web applications, building AI-powered solutions, or creating tools that enhance productivity, I enjoy the process of learning, building, and continuously improving.
+</div>
 
-### 🎯 Career Goal
+- 🎓 **B.Tech Computer Science Engineering** student at Shri Ram Institute of Technology, Jabalpur.
+- 💻 Focused on **Software Engineering, Full Stack Development and Backend Engineering**.
+- 🤖 Exploring **Machine Learning, Deep Learning, Computer Vision, NLP and Generative AI**.
+- 🚀 Building practical applications that combine **modern web technologies with AI**.
+- 🧠 Strengthening **Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks and System Design**.
+- 🔧 Interested in building scalable, maintainable and user-focused software.
+- 📚 Solved **100+ problems on LeetCode** and continuously improving problem-solving skills.
+- 🌱 Currently learning **Cloud, Docker, Kubernetes, MLOps and advanced Generative AI**.
 
-My goal is to become a skilled Software Engineer who contributes to innovative products, works on challenging real-world problems, and develops solutions that create a positive impact. I am always eager to learn new technologies, collaborate with talented teams, and embrace opportunities that help me grow both technically and professionally.
+<br>
 
-> **"Consistency in learning and building is the key to becoming a better developer every day."**
+<div align="center">
+
+### Open To
+
+`Software Engineering Internships` `Full Stack Development` `Backend Engineering` `AI/ML` `Data Science` `Generative AI` `Open Source`
+
+</div>
+
+---
+
+<div align="center">
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&theme=dark"/>
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind&theme=dark"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+</p>
+
+### 🤖 AI / ML & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white"/>
+</p>
+
+### 🧠 Generative AI
+
+<p>
+<img src="https://img.shields.io/badge/Generative%20AI-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20APIs-5B21B6?style=flat-square"/>
+</p>
+
+### 🔧 Tools & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark"/>
+</p>
+
+### ☁️ Cloud & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,vercel&theme=dark"/>
+</p>
+
+### 🔌 APIs & Services
+
+<p>
+<img src="https://img.shields.io/badge/REST%20APIs-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Razorpay-3395FF?style=flat-square&logo=razorpay&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
+
+</div>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhoomikagupta-6617572a2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhoomikagupta71@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Bhoomika2110&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Bhoomika2110&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bhoomika2110&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🧠 AI / ML Expertise
+
+</div>
+
+| Domain | Technologies | What I Work On |
+|:---|:---|:---|
+| **Programming** | Python, NumPy, Pandas | Data processing, automation and analysis |
+| **Machine Learning** | Scikit-learn | Model training, evaluation and prediction |
+| **Deep Learning** | Neural Networks, CNN | Intelligent model development |
+| **Computer Vision** | OpenCV, MediaPipe | Image processing, face and pose analysis |
+| **NLP** | NLP, Transformers | Text processing and semantic analysis |
+| **Generative AI** | LLMs, AI APIs | AI-powered application features |
+| **Data Science** | Pandas, NumPy | Data cleaning, exploration and insights |
+| **Model Evaluation** | ML Metrics | Validation and performance analysis |
+| **AI Applications** | FastAPI, Streamlit | Deploying interactive AI applications |
+
+---
+
+---
+
+<div align="center">
+---
+
+
+## 🚀 Project Showcase
+
+### Full Stack Development • AI/ML • Generative AI
+
+</div>
+
+---
+
+<details>
+<summary><h3>🤖 AI Attendance System</h3></summary>
+
+<br>
+
+An AI-powered attendance management application designed to automate attendance workflows and manage students, teachers, subjects, and attendance records through an interactive application.
+
+### Technology
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Face%20Recognition-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+
+### Features
+
+- AI-assisted attendance workflow
+- Student and teacher management
+- Subject-based attendance tracking
+- Attendance history and logs
+- Authentication and access control
+- Database-backed application architecture
+- Interactive Streamlit interface
+
+### Engineering Focus
+
+`AI Integration` `Computer Vision` `Database Design` `Authentication` `Application Architecture`
+### Links
+
+<a href="https://github.com/Bhoomika2110/Ai-Attendance-Project">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Bhoomika2110/AI-website-builder">
+<img src="https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge"/>
+</a>
+
+
+</details>
+
+---
+
+<details>
+<summary><h3>🌐 AI Website Builder</h3></summary>
+
+<br>
+
+A full-stack AI-powered website builder that enables users to generate and modify websites using natural-language instructions and AI-assisted code generation.
+
+### Technology
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&theme=dark"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Monaco%20Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-6C63FF?style=flat-square"/>
+
+### Features
+
+- AI website generation
+- Natural-language development
+- AI-assisted code generation
+- Website editing and updates
+- Monaco code editor
+- User authentication
+- Project management
+- Deployment workflow
+
+### Engineering Focus
+
+`Generative AI` `MERN` `LLM Integration` `Code Generation` `Developer Tools`
+
+### Links
+
+<a href="https://github.com/Bhoomika2110/AI-website-builder">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://ai-website-builder-1-f3uy.onrender.com">
+<img src="https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge"/>
+</a>
+
+</details>
+
+---
+
+<details>
+<summary><h3>📚 AuraLearn LMS</h3></summary>
+
+<br>
+
+A full-stack learning management platform providing course management, role-based access, authentication, online payments, and AI-assisted learning capabilities.
+
+### Technology
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Razorpay-3395FF?style=flat-square&logo=razorpay&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Assistant-4F46E5?style=flat-square"/>
+
+### Features
+
+- Role-based authentication
+- Course management
+- Student and instructor workflows
+- Online payments with Razorpay
+- Protected routes
+- REST API integration
+- MongoDB database
+- AI learning assistant
+
+### Engineering Focus
+
+`MERN` `RBAC` `Authentication` `Payments` `REST APIs` `Product Engineering`
+
+### Links
+
+<a href="https://github.com/Bhoomika2110/AuraLearn">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://oneauralearn-799e.onrender.com/">
+<img src="https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge"/>
+</a>
+
+</details>
+
+---
+
+<details>
+<summary><h3>💬 RealTime Chatting App</h3></summary>
+
+<br>
+
+A real-time communication application focused on instant messaging, user authentication, and responsive chat interactions.
+
+### Technology
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST%20API-7C3AED?style=flat-square"/>
+
+### Features
+
+- Real-time messaging
+- User authentication
+- One-to-one communication
+- Instant message delivery
+- Responsive chat interface
+- MongoDB-based data persistence
+- REST API integration
+
+### Engineering Focus
+
+`MERN` `WebSockets` `Socket.IO` `Real-Time Systems` `Authentication` `REST APIs`
+### Links
+
+<a href="https://github.com/Bhoomika2110/Realtime-chatting-app-">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://realtime-chatting-app-1-rxq3.onrender.com">
+<img src="https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge"/>
+</a>
+
+
+</details>
+
+---
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=Bhoomika2110&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 💻 LeetCode
+
+<a href="https://leetcode.com/">
+
+<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/Bhoomika2110?theme=dark&font=Karma&ext=heatmap"/>
+
+</div>
+
+---
+
+<div align="center">
+
+
+
+## 🎯 Current Focus
+
+</div>
+
+```yaml
+learning:
+  - Data Structures & Algorithms
+  - System Design
+  - Machine Learning
+  - Deep Learning
+  - Generative AI
+  - Backend Architecture
+  - Cloud Computing
+  - Docker & Kubernetes
+
+building:
+  - AI-powered applications
+  - Full-stack MERN applications
+  - Machine Learning projects
+  - Generative AI applications
+  - Developer tools
+
+exploring:
+  - Large Language Models
+  - Computer Vision
+  - NLP
+  - MLOps
+  - Microservices
+  - CI/CD
+
+improving:
+  - Problem Solving
+  - Software Architecture
+  - Clean Code
+  - Scalable Backend Systems
+  - Production Deployment
+
+open_to:
+  - Software Engineering Internships
+  - Full Stack Development
+  - Backend Engineering
+  - AI/ML Engineering
+  - Data Science
+  - Open Source
+```
+
+---
+
+<div align="center">
+
+## 🧩 Core Computer Science
+
+<img src="https://img.shields.io/badge/DSA-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-4338CA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design%20Basics-312E81?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<br>
+
+<a href="mailto:bhoomikagupta71@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-bhoomikagupta71%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bhoomika-gupta-6617572a2">
+<img src="https://img.shields.io/badge/LinkedIn-Bhoomika%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Bhoomika2110">
+<img src="https://img.shields.io/badge/GitHub-Bhoomika2110-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Location-Jabalpur%2C%20Madhya%20Pradesh-6C63FF?style=flat-square"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building software. Exploring AI. Solving problems. Learning continuously.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=6,11,20"/>
+
+</div>
