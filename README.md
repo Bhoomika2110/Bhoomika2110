@@ -195,8 +195,8 @@ An AI-powered attendance management application designed to automate attendance 
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Bhoomika2110/AI-website-builder">
-<img src="https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge"/>
+<a href="https://ai-attendance-project-eta.vercel.app/">
+<img src="https://github.com/Bhoomika2110/Bhoomika2110/blob/main/AI%20Attendance.png"/>
 </a>
 
 
@@ -244,7 +244,7 @@ A full-stack AI-powered website builder that enables users to generate and modif
 </a>
 
 <a href="https://ai-website-builder-1-f3uy.onrender.com">
-<img src="https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge"/>
+<img src="https://github.com/Bhoomika2110/Bhoomika2110/blob/main/AI%20wedsite.png"/>
 </a>
 
 </details>
@@ -291,7 +291,7 @@ A full-stack learning management platform providing course management, role-base
 </a>
 
 <a href="https://oneauralearn-799e.onrender.com/">
-<img src="https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge"/>
+<img src="https://github.com/Bhoomika2110/Bhoomika2110/blob/main/AuraLearn.png"/>
 </a>
 
 </details>
@@ -335,7 +335,7 @@ A real-time communication application focused on instant messaging, user authent
 </a>
 
 <a href="https://realtime-chatting-app-1-rxq3.onrender.com">
-<img src="https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge"/>
+<img src="https://github.com/Bhoomika2110/Bhoomika2110/blob/main/Realtime%20chat.png"/>
 </a>
 
 
