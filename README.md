@@ -352,15 +352,8 @@ A real-time communication application focused on instant messaging, user authent
 
 
 ## 💻 LeetCode
-
-<a href="https://leetcode.com/">
-
-<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-</a>
-
 <br><br>
-
+<a href="https://leetcode.com/u/bhoomika2110/">
 <img src="https://leetcard.jacoblin.cool/Bhoomika2110?theme=dark&font=Karma&ext=heatmap"/>
 
 </div>
