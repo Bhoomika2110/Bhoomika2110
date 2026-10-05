@@ -349,6 +349,28 @@ A real-time communication application focused on instant messaging, user authent
 ---
 
 
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Bhoomika2110&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomika2110&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhoomika2110&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+
+---
+
 ## 💻 LeetCode
 <br><br>
 <a href="https://leetcode.com/u/bhoomika2110/">
@@ -359,8 +381,6 @@ A real-time communication application focused on instant messaging, user authent
 ---
 
 <div align="center">
-
-
 
 ## 🎯 Current Focus
 
