@@ -30,14 +30,12 @@
 
 </div>
 
-- 🎓 **B.Tech Computer Science Engineering** student at Shri Ram Institute of Technology, Jabalpur.
-- 💻 Focused on **Software Engineering, Full Stack Development and Backend Engineering**.
-- 🤖 Exploring **Machine Learning, Deep Learning, Computer Vision, NLP and Generative AI**.
-- 🚀 Building practical applications that combine **modern web technologies with AI**.
-- 🧠 Strengthening **Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks and System Design**.
-- 🔧 Interested in building scalable, maintainable and user-focused software.
-- 📚 Solved **100+ problems on LeetCode** and continuously improving problem-solving skills.
-- 🌱 Currently learning **Cloud, Docker, Kubernetes, MLOps and advanced Generative AI**.
+- 🎓 B.Tech CSE student at Shri Ram Institute of Technology.
+- 💻 Full Stack & Backend Development enthusiast.
+- 🤖 Exploring AI/ML and Generative AI.
+- 🚀 Building AI-powered full-stack applications.
+- 🧠 Practicing DSA and core CS concepts.
+- 🌱 Learning Cloud, Docker, Kubernetes & MLOps.
 
 <br>
 
@@ -157,7 +155,6 @@
 
 ### Full Stack Development • AI/ML • Generative AI
 
-</div>
 
 ---
 
@@ -382,55 +379,6 @@ A real-time communication application focused on instant messaging, user authent
 
 <div align="center">
 
-## 🎯 Current Focus
-
-</div>
-
-```yaml
-learning:
-  - Data Structures & Algorithms
-  - System Design
-  - Machine Learning
-  - Deep Learning
-  - Generative AI
-  - Backend Architecture
-  - Cloud Computing
-  - Docker & Kubernetes
-
-building:
-  - AI-powered applications
-  - Full-stack MERN applications
-  - Machine Learning projects
-  - Generative AI applications
-  - Developer tools
-
-exploring:
-  - Large Language Models
-  - Computer Vision
-  - NLP
-  - MLOps
-  - Microservices
-  - CI/CD
-
-improving:
-  - Problem Solving
-  - Software Architecture
-  - Clean Code
-  - Scalable Backend Systems
-  - Production Deployment
-
-open_to:
-  - Software Engineering Internships
-  - Full Stack Development
-  - Backend Engineering
-  - AI/ML Engineering
-  - Data Science
-  - Open Source
-```
-
----
-
-<div align="center">
 
 ## 🧩 Core Computer Science
 
