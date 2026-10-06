@@ -28,18 +28,33 @@
 
 ## 👩‍💻 About Me
 
-</div>
 
-- 🎓 B.Tech CSE student at Shri Ram Institute of Technology.
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE student at **Shri Ram Institute of Technology**.
 - 💻 Full Stack & Backend Development enthusiast.
-- 🤖 Exploring AI/ML and Generative AI.
-- 🚀 Building AI-powered full-stack applications.
-- 🧠 Practicing DSA and core CS concepts.
-- 🌱 Learning Cloud, Docker, Kubernetes & MLOps.
+- 🤖 Exploring **AI/ML and Generative AI**.
+- 🚀 Building **AI-powered full-stack applications**.
+- 🧠 Practicing **DSA and core Computer Science concepts**.
+- 🌱 Learning **Cloud, Docker, Kubernetes & MLOps**.
 
-<br>
+</td>
 
-<div align="center">
+<td width="35%" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=300&lines=Full+Stack+Developer;AI%2FML+Enthusiast;DSA+Problem+Solver;Backend+Developer;Building+%26+Learning+%F0%9F%9A%80" />
+
+
+</td>
+
+</tr>
+</table>
 
 ### Open To
 
